@@ -2,6 +2,8 @@
 
 > Course project – a basic bank app coded along with the instructor Jonas Schmedtmann.
 
+https://max-mendes91.github.io/Bankist-app/
+
 ## Overview
 This is a simple bank app built as part of **The Complete JavaScript Course 2025** by **Jonas Schmedtmann**. Features include:
 
